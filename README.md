@@ -12,6 +12,3 @@
 ---
 Copyright 2021, AA. Team-Alpha & Co. 
 
-
-# team-alpha-wiki
-# team-alpha-wiki
