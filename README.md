@@ -7,8 +7,8 @@
 # Git commands 
   **git init**
   **sudo apt install git**
- git remote add origin https://github.com/bank-builder/my-stuff.git
- git config -1
+ **git remote add origin https://github.com/bank-builder/my-stuff.git**
+ **git config -1**
   
  nano repofile'
    
