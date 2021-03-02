@@ -4,7 +4,7 @@
 ! [team-alpha-banner](wiki/resources/team-banner.jpg)
 
 
-'Git commands
+'Git commands'
   git init'
  sudo apt install git
  git remote add origin https://github.com/bank-builder/my-stuff.git
